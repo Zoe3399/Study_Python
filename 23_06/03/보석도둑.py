@@ -44,7 +44,7 @@ for i in c:
         # 현재 최대 가격인 보석을 카운트
     elif not heap: break  # 남은 보석이 없는 경우 끝낸다.
 
-print(max_value)
+print(max_value) # 164
 
 '''
         heappush
